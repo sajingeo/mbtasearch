@@ -31,11 +31,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Search MBTA stop IDs, to use with ALEXA skill">
+    <meta name="author" content="Sajin George">
     <link rel="icon" href="favicon.ico">
 
-    <title>Starter Template for Bootstrap</title>
+    <title>MBTA stop ID search</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/twbs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -75,7 +75,7 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>MBTA stop id lookup</h1>
+        <h1>MBTA stop ID lookup</h1>
       </div>
 
       <form action="index.php">
